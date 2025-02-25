@@ -1,4 +1,4 @@
-<h1 align="left">Hi</h1>
+<h1 align="left">Hi!</h1>
 
 ###
 
@@ -27,9 +27,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejoFabianV&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=9&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/AlejoFabianV/AlejoFabianV/output/snake.svg" alt="Snake animation" />
-
-###
